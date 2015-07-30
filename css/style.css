@@ -1,0 +1,64 @@
+
+body{
+	font-family: arial;
+	height: 100%;
+	padding-bottom: 70px;
+}
+
+.mainBody{
+	text-align: center;
+	padding-top: 125px;
+	
+}
+
+.header
+{
+	text-align: right;
+}
+.header>ul>li{
+	display: inline;
+	text-decoration: none;
+	
+}
+
+.mainlogo >img{
+	height: 95px;
+	width: 280px;
+
+}
+
+form{
+	font-family: arial;
+
+}
+
+.submit{
+	background-color: #F3F3F3;
+	height: 30px;
+	font-weight: bold;
+	font-size: 10px;
+	border:1px solid #DADADA;
+	border-radius: 2px;
+
+}
+
+
+.voice{
+	position:absolute;
+	top:242px;
+	left:910px; 
+	height:20px;
+	width: 20px;
+}
+
+.footer{
+	background-color: #f1f1f1;
+	padding: 10px 10px 5px 10px;
+
+}
+.footer ul>li{
+	display: inline;
+	text-decoration: none;
+	padding: 10px;
+	color: #666666;
+}
